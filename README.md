@@ -12,6 +12,7 @@
 
 ## 查看与下载
 
+- [分析流程与源码索引](docs/workflow.md) · [图件索引](docs/figures.md)
 - [查看 8 张图件（PDF）](figures.pdf)：训练诊断、ROC、阈值热力图、质量谱和 pull。
 - [下载完整展示材料（ZIP）](project-files.zip)：14 份源码、8 张原图和 3 份说明，保留原目录结构。源码位于解压后的 `code/`，流程和图件索引位于 `docs/`。
 
